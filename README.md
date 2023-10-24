@@ -35,7 +35,7 @@
 
 ### :trophy: Достижения:
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=rompersStomper" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GeorgyPoznyak" alt=""/>
 </div>
 
 ### :keyboard: Наиболее используемые языки:
